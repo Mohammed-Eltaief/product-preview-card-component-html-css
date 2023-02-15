@@ -29,11 +29,13 @@
       #image-desktop{ display: none;}
       h1{
         font-family:'Fraunces', serif;
+       
       }
       p{
         color: gray;
         font-family:'Montserrat', sans-serif;
         line-height: 1.8;
+        font-size:98%;
       }
       p.perfume{  letter-spacing: 5px; font-size:80%;}
       .flex-container >img{
@@ -42,13 +44,13 @@
         height: auto;
 
       }
-      .gabrielle{  font-size:200%;    }
+      .gabrielle{  font-size:230%;    }
       .prices{
         display: flex;
         width: 100%;
         height: auto;
         background-color:white ;
-      
+        padding-bottom: 10px;
         align-items: center;
       }
       .prices > h1{
