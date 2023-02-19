@@ -14,9 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -74,4 +72,4 @@ I want to continue focusing in future projects on Practis more HTML and CSS Than
 ## Author
 
 - Github- [Mohamed Eltaief](https://github.com/Mohammed-Eltaief)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mohammed-Eltaief)
+- Frontend Mentor - [@Mohammed-Eltaief](https://www.frontendmentor.io/profile/Mohammed-Eltaief)
